@@ -1,0 +1,7 @@
+wigderson :
+
+Here is just one tip of the iceberg we'll explore in this book: How much time does it take to nd the
+prime factors of a 1,000-digit integer? The facts are that (1) we can't even roughly estimate the answer: it
+could be less than a second or more than a million years, and (2) practically all electronic commerce and
+Internet security systems in existence today rest on the belief that it takes more than a million years!
+
