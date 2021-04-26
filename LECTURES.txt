@@ -12,3 +12,38 @@ Internet security systems in existence today rest on the belief that it takes mo
 p 494 : Caveat: Subset Sum with Polynomially Bounded Numbers
 
 ****************************************************
+
+sur Walter Savitch : blog de Richard Lipton :
+https://rjlipton.wpcomstaging.com/2009/04/05/savitchs-theorem/
+
+image sur homepage :
+xxx
+
+
+********** obama / bubblesort
+
+https://www.youtube.com/watch?v=k4RRi_ntQc8
+
+************ page des preuves
+https://www.win.tue.nl/~gwoegi/P-versus-NP.htm
+
+*************************** boaz barak
+
+ch 12
+
+“The problem of distinguishing prime numbers from composite and of resolving
+the latter into their prime factors is … one of the most important and useful
+in arithmetic … Nevertheless we must confess that all methods … are either
+restricted to very special cases or are so laborious … they try the patience of
+even the practiced calculator … and do not apply at all to larger numbers.”,
+Carl Friedrich Gauss, 1798
+
+
+*******  molecular driving forces *****
+
+p 369
+
+p 380   KA Dill and HS Chan, Nat Struc Biol 4, 10–19 (1997)
+
+
+
