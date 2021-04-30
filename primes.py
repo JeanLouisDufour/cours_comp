@@ -1,3 +1,4 @@
+import math
 from sympy.ntheory import isprime, factorint
 
 start = 12345678987654321
@@ -17,4 +18,23 @@ print(p2)
 N = p1*p2
 print(N)
 print(isprime(N))
-print(factorint(N))
+if False:
+	print(factorint(N))
+
+def L(n,a,c):
+	"""
+	"""
+	ln = math.log(n)
+	lln = math.log(ln)
+	p = c * (ln**a) * (lln**(1-a))
+	return math.exp(p)
+
+def GNFS(n):
+	"""
+	"""
+	return L(n, 1/3, (64/9)**(1/3))
+
+for x in (3,10,100,1000,p1,N):
+	print(f'{x} : {GNFS(x)}')
+
+	
