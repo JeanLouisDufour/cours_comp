@@ -15,9 +15,9 @@ plt.savefig('puissances.png', bbox_inches='tight')
 
 plt.figure()
 
-n = 10
+n = 10.1
 pl = (2,3)
-x = [x/100 for x in range(n*100+1)]
+x = [x/100 for x in range(math.ceil(n*100+1))]
 y = [[math.pow(x,p) for x in x] for p in pl]
 
 two_p_x = [math.pow(2,x) for x in x]
